@@ -1,0 +1,59 @@
+ // if(spriteTouched(this.pauze, 50, 50) || mousePressedOver(this.pauze)){
+            //     this.pauzed = true
+            //     this.pauze.visible = false
+            // }
+
+
+
+            // //pauze menu
+            // if(this.pauzed){
+            //     this.pauzeMenu.visible = true
+            //     this.leftcameraPlus = 0
+            //     this.cameraPlus = 0
+            //     this.player.plr.velocityY = 0
+            //     this.player.plr.pause()
+
+            //     this.gyo1.gyo.velocityX = 0
+            //     this.gyo2.gyo.velocityX = 0
+            //     this.gyo3.gyo.velocityX = 0
+            //     this.gyo1.gyo.pause()
+            //     this.gyo2.gyo.pause()
+            //     this.gyo3.gyo.pause()
+
+            //     this.leftMove.visible = false
+            //     this.rightMove.visible = false
+            //     this.jumpMove.visible = false
+            //     this.pauzeScreen.visible = true
+            //     this.resume.visible = true
+            //     this.settings.visible = true
+            //     this.home.visible = true
+
+            //     this.player.plr.depth = 19
+
+            //     if(spriteTouched(this.resume, this.w / 7.5294, this.h / 9.4736)){
+            //         this.pauzed = false
+
+            //         this.pauzeMenu.visible = false
+            //         this.player.plr.play()
+
+            //         this.gyo1.gyo.play()
+            //         this.gyo2.gyo.play()
+            //         this.gyo3.gyo.play()
+            //         this.gyo1.gyo.move()
+            //         this.gyo2.gyo.move()
+            //         this.gyo3.gyo.move()
+                    
+
+            //         this.leftMove.visible = true
+            //         this.rightMove.visible = true
+            //         this.jumpMove.visible = true
+            //         this.pauzeScreen.visible = false
+            //         this.resume.visible = false
+            //         this.settings.visible = false
+            //         this.home.visible = false
+
+            //         this.pauze.visible = true
+            //     }
+                
+                
+            // }
